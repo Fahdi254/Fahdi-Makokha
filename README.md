@@ -1,2 +1,2 @@
-
+Iam Motivated and detail-oriented Software Engineer specializing in backend web development. Experienced in designing, building, and maintaining robust, scalable, and secure server-side applications. Skilled in working with modern frameworks, databases, and APIs to deliver high-performance solutions that meet business needs. Passionate about clean code, system architecture, and continuous learning to stay up to date with evolving technologies.
 # Fahdi-Makokha
